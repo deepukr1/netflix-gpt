@@ -1,6 +1,15 @@
 ## Netflix-GTP
 - npx create-react-app projectName
 -installed/Configured Tailwind css
+-Header
+-Routing of App
+-Login Form
+-Sign Up Form
+-Form Validation
+-useRef Hook
+-Firebase Setup
+-deployed on Production
+-Create SignUp user Accounty44w=
 
 
 ## Features

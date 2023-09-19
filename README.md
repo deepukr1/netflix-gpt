@@ -9,7 +9,9 @@
 -useRef Hook
 -Firebase Setup
 -deployed on Production
--Create SignUp user Accounty44w=
+-Create SignUp user Accounty
+-Implement sign In User API
+-created Redux Store with userslice
 
 
 ## Features

@@ -12,6 +12,9 @@
 -Create SignUp user Accounty
 -Implement sign In User API
 -created Redux Store with userslice
+-Register TMDB API & create an app & get access token
+-Get data from TMDB now playing movies list API
+-GPT Seach option
 
 
 ## Features
